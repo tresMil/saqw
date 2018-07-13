@@ -1,0 +1,728 @@
+#EXTM3U
+ 
+#EXTINF:-1 type="stream" tvg-id="0_Espana" tvg-name="#0 HD" tvg-logo="http://i.imgur.com/8Nu5xyf.jpg" group-title="EUROPA",#0 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/150.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="52 MX" tvg-logo="http://52mx.tv/2017/images/52b.png" group-title="LOCALES",52 MX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/417.ts
+#EXTINF:-1 type="stream" tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://i.imgur.com/GZDpTqS.png?1" group-title="ENTRETENIMIENTO",A&E
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/23.ts
+#EXTINF:-1 type="stream" tvg-id="AandE.mx" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/GZDpTqS.png?1" group-title="CANALESHD",A&E HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/19.ts
+#EXTINF:-1 type="stream" tvg-id="AandE.ar" tvg-name="A&E LATAM HD" tvg-logo="http://i.imgur.com/GZDpTqS.png" group-title="ENTRETENIMIENTO",A&E LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/403.ts
+#EXTINF:-1 type="stream" tvg-id="Amastv.mx" tvg-name="A+" tvg-logo="http://i.imgur.com/8ehJ1qT.png" group-title="LOCALES",A+
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/283.ts
+#EXTINF:-1 type="stream" tvg-id="Atreseries.es" tvg-name="A3SERIES HD" tvg-logo="http://i.imgur.com/5sHc9l8.png" group-title="EUROPA",A3SERIES HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/152.ts
+#EXTINF:-1 type="stream" tvg-id="AztecaNoticias.mx" tvg-name="ADN 40" tvg-logo="http://i.imgur.com/YZxzd7c.png" group-title="LOCALES",ADN 40
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/96.ts
+#EXTINF:-1 type="stream" tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://i.imgur.com/yxNXfI0.png?1" group-title="ENTRETENIMIENTO",AMC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/21.ts
+#EXTINF:-1 type="stream" tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/yxNXfI0.png?1" group-title="CANALESHD",AMC HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/472.ts
+#EXTINF:-1 type="stream" tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/bPlUVH8.png?1" group-title="CULTURA",ANIMAL PLANET
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/22.ts
+#EXTINF:-1 type="stream" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="http://i.imgur.com/xTRp9F7.png" group-title="EUROPA",ANTENA 3
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/149.ts
+#EXTINF:-1 type="stream" tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://i.imgur.com/YXEutCW.png" group-title="ENTRETENIMIENTO",AXN
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/119.ts
+#EXTINF:-1 type="stream" tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/YXEutCW.png" group-title="CANALESHD",AXN HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/16.ts
+#EXTINF:-1 type="stream" tvg-id="Canal AXN Centro" tvg-name="AXN LATAM HD" tvg-logo="http://i.imgur.com/Nv2DtiZ.png?1" group-title="ENTRETENIMIENTO",AXN LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/146.ts
+#EXTINF:-1 type="stream" tvg-id="AXNWhite.es" tvg-name="AXN WHITE" tvg-logo="http://i.imgur.com/KbbHvcU.png" group-title="EUROPA",AXN WHITE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/569.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="AYM SPORTS" tvg-logo="http://i.imgur.com/tNjMQ4X.png?2" group-title="DEPORTES",AYM SPORTS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/24.ts
+#EXTINF:-1 type="stream" tvg-id="AztecaCinema.mx" tvg-name="AZ CINEMA" tvg-logo="http://i.imgur.com/wE6dxde.png?1" group-title="LOCALES",AZ CINEMA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/25.ts
+#EXTINF:-1 type="stream" tvg-id="Canal AZMundo" tvg-name="AZ MUNDO" tvg-logo="http://i.imgur.com/UY7CcLT.png" group-title="LOCALES",AZ MUNDO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/280.ts
+#EXTINF:-1 type="stream" tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://i.imgur.com/eYEOAxX.png" group-title="LOCALES",AZTECA 7
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/30.ts
+#EXTINF:-1 type="stream" tvg-id="Azteca13.mx" tvg-name="AZTECA UNO" tvg-logo="http://i.imgur.com/YCFkqwm.png" group-title="LOCALES",AZTECA UNO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/31.ts
+#EXTINF:-1 type="stream" tvg-id="Canal BabyFirst TV" tvg-name="BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png" group-title="INFANTIL",BABY FIRST
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/162.ts
+#EXTINF:-1 type="stream" tvg-id="BabyTV.mx" tvg-name="BABY TV" tvg-logo="http://i.imgur.com/B81HAKs.png?1" group-title="INFANTIL",BABY TV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/232.ts
+#EXTINF:-1 type="stream" tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.kadri.mx/wp-content/uploads/2016/05/r-1.png" group-title="MUSICA",BANDAMAX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/32.ts
+#EXTINF:-1 type="stream" tvg-id="beINLaLiga.es" tvg-name="BEIN LA LIGA HD" tvg-logo="http://i.imgur.com/ng9T1bT.png" group-title="DEPORTES",BEIN LA LIGA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/139.ts
+#EXTINF:-1 type="stream" tvg-id="beINSports.us" tvg-name="BEIN N HD" tvg-logo="http://i.imgur.com/Tdo5Ecu.png?1" group-title="DEPORTES",BEIN N HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/143.ts
+#EXTINF:-1 type="stream" tvg-id="beINSportEnEspanol.us" tvg-name="BEIN SPORTS ESPANOL INTERNACIONAL HD" tvg-logo="http://i.imgur.com/b2cJiV4.png?1" group-title="DEPORTES",BEIN SPORTS ESPANOL INTERNACIONAL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/138.ts
+#EXTINF:-1 type="stream" tvg-id="beINSports.us" tvg-name="BEIN SPORTS USA HD" tvg-logo="http://i.imgur.com/b2cJiV4.png?1" group-title="DEPORTES",BEIN SPORTS USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/147.ts
+#EXTINF:-1 type="stream" tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://i.imgur.com/YuVZ7Ks.png" group-title="INFANTIL",BOOMERANG
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/34.ts
+#EXTINF:-1 type="stream" tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="http://i.imgur.com/IkwjVfQ.png" group-title="SUDAMERICA",C5N
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/529.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CANAL 10 UY" tvg-logo="http://i.imgur.com/27t0lnu.png" group-title="SUDAMERICA",CANAL 10 UY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/173.ts
+#EXTINF:-1 type="stream" tvg-id="CanalOnce.mx" tvg-name="CANAL 11 MEX" tvg-logo="http://i.imgur.com/RZh9Shg.png?1" group-title="LOCALES",CANAL 11 MEX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/36.ts
+#EXTINF:-1 type="stream" tvg-id="XEIMT 22 Nacional" tvg-name="CANAL 22" tvg-logo="http://i.imgur.com/TBfcKtQ.png" group-title="LOCALES",CANAL 22
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/241.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CANAL 26" tvg-logo="http://i.imgur.com/R6mZajy.png" group-title="SUDAMERICA",CANAL 26
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/165.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CANAL 4 UY" tvg-logo="http://lh3.googleusercontent.com/9RnvMbPlbDTVdAg4wn3jIC-zaKAMNjExcq58RfnZTmRgzsb6nplX3KapyPR253JCWa4=w300" group-title="SUDAMERICA",CANAL 4 UY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/171.ts
+#EXTINF:-1 type="stream" tvg-id="5Nacional.mx" tvg-name="CANAL 5" tvg-logo="http://i.imgur.com/7n5MZ0g.png?1" group-title="LOCALES",CANAL 5
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/35.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CANAL 5 UY HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/LOGO_tnu_alta.png/250px-LOGO_tnu_alta.png" group-title="SUDAMERICA",CANAL 5 UY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/172.ts
+#EXTINF:-1 type="stream" tvg-id="Canal9.ar" tvg-name="CANAL 9" tvg-logo="http://i.imgur.com/mZTxkb3.png" group-title="SUDAMERICA",CANAL 9
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/164.ts
+#EXTINF:-1 type="stream" tvg-id="CanalDecasa.es" tvg-name="CANAL DE CASA" tvg-logo="http://i.imgur.com/Mvz4sqd.png" group-title="EUROPA",CANAL DE CASA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/572.ts
+#EXTINF:-1 type="stream" tvg-id="Toros.es" tvg-name="CANAL TOROS" tvg-logo="http://i.imgur.com/tTqCfr3.jpg" group-title="DEPORTES",CANAL TOROS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/482.ts
+#EXTINF:-1 type="stream" tvg-id="Canal Caracol Internacional" tvg-name="CARACOL INT" tvg-logo="http://i.imgur.com/fwulisb.png" group-title="SUDAMERICA",CARACOL INT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/429.ts
+#EXTINF:-1 type="stream" tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK MEX" tvg-logo="http://i.imgur.com/RPlJBDE.png" group-title="INFANTIL",CARTOON NETWORK MEX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/435.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="http://i.imgur.com/11WsnIC.jpg" group-title="DEPORTES",CAZA Y PESCA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/480.ts
+#EXTINF:-1 type="stream" tvg-id="Canal del Futbol HDTV" tvg-name="CDF BASICO" tvg-logo="http://i.imgur.com/YKsWWmY.png" group-title="DEPORTES",CDF BASICO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/496.ts
+#EXTINF:-1 type="stream" tvg-id="Canal del Futbol (Premium)" tvg-name="CDF PREMIUM" tvg-logo="http://i.imgur.com/YKsWWmY.png" group-title="DEPORTES",CDF PREMIUM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/553.ts
+#EXTINF:-1 type="stream" tvg-id="CDNSportsMax.do" tvg-name="CDN SPORTMAX" tvg-logo="http://i.imgur.com/47pTADm.png" group-title="DEPORTES",CDN SPORTMAX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/559.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CHIVAS TV HD" tvg-logo="http://i.imgur.com/SoK2weG.png" group-title="DEPORTES",CHIVAS TV HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/289.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CHIVAS TV SD" tvg-logo="http://i.imgur.com/SoK2weG.png" group-title="DEPORTES",CHIVAS TV SD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/290.ts
+#EXTINF:-1 type="stream" tvg-id="CinemaDinamita.co" tvg-name="CINE DINAMITA" tvg-logo="http://i.imgur.com/fmi2DcH.png" group-title="CINE",CINE DINAMITA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/539.ts
+#EXTINF:-1 type="stream" tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://i.imgur.com/i9wT0wY.png" group-title="CINE",CINE LATINO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/398.ts
+#EXTINF:-1 type="stream" tvg-id="CineSony.mx" tvg-name="CINE SONY" tvg-logo="http://i.imgur.com/kcjQFlP.png" group-title="CINE",CINE SONY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/519.ts
+#EXTINF:-1 type="stream" tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://i.imgur.com/lCezLVD.png" group-title="CINE",CINECANAL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/121.ts
+#EXTINF:-1 type="stream" tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://i.imgur.com/lCezLVD.png" group-title="CANALESHD",CINECANAL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/12.ts
+#EXTINF:-1 type="stream" tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://i.imgur.com/zTmmXTN.png?1" group-title="CINE",CINEMAX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/122.ts
+#EXTINF:-1 type="stream" tvg-id="Cinemax.mx" tvg-name="CINEMAX HD" tvg-logo="http://i.imgur.com/zTmmXTN.png?1" group-title="CANALESHD",CINEMAX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/10.ts
+#EXTINF:-1 type="stream" tvg-id="ClaroSport.mx" tvg-name="CLARO SPORTS HD" tvg-logo="http://i.imgur.com/FI0LqPf.png?1" group-title="DEPORTES",CLARO SPORTS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/294.ts
+#EXTINF:-1 type="stream" tvg-id="CableNewsNetwork.mx" tvg-name="CNN ESPANOL" tvg-logo="http://i.imgur.com/OQx7fkJ.png?1" group-title="NOTICIAS",CNN ESPANOL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/268.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CNN USA" tvg-logo="http://i.imgur.com/clmHMPk.jpg" group-title="NOTICIAS",CNN USA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/158.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CNT SPORTS" tvg-logo="http://i.imgur.com/Qihu1Mv.jpg" group-title="DEPORTES",CNT SPORTS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/554.ts
+#EXTINF:-1 type="stream" tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/bUxYJl2.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/120.ts
+#EXTINF:-1 type="stream" tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://i.imgur.com/vHCMSmh.png" group-title="CANALESHD",COMEDY CENTRAL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/20.ts
+#EXTINF:-1 type="stream" tvg-id="Cosmo.es" tvg-name="COSMO HD" tvg-logo="http://i.imgur.com/6OrcONe.png" group-title="EUROPA",COSMO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/490.ts
+#EXTINF:-1 type="stream" tvg-id="CrimenInvestigacion.es" tvg-name="CRIMEN + INVESTIGACION" tvg-logo="http://i.imgur.com/04VUCt1.png" group-title="EUROPA",CRIMEN + INVESTIGACION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/447.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="CRONICA" tvg-logo="http://i.imgur.com/yMJ6MIm.jpg" group-title="SUDAMERICA",CRONICA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/212.ts
+#EXTINF:-1 type="stream" tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://i.imgur.com/zRWBKlb.png" group-title="CINE",DE PELICULA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/49.ts
+#EXTINF:-1 type="stream" tvg-id="Canal DHE" tvg-name="DHE HD" tvg-logo="http://i.imgur.com/sjz90Bl.png" group-title="CINE",DHE HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/199.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/555.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/556.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS PLUS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/557.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/7esSTf4.png?1" group-title="CULTURA",DISCOVERY CHANNEL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/42.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://i.imgur.com/7esSTf4.png?1" group-title="CANALESHD",DISCOVERY CHANNEL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/292.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY CHANNEL LATAM HD" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/595.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/GKhhBWU.png?1" group-title="CULTURA",DISCOVERY CIVILIZATION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/41.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryCivilization.ar" tvg-name="DISCOVERY CIVILIZATION LATAM" tvg-logo="http://i.imgur.com/GKhhBWU.png?1" group-title="CULTURA",DISCOVERY CIVILIZATION LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/456.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="http://i.imgur.com/10s5PHL.png" group-title="CULTURA",DISCOVERY H&H
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/43.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY H&H HD" tvg-logo="http://i.imgur.com/10s5PHL.png" group-title="CANALESHD",DISCOVERY H&H HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/374.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/rdzDXPG.png?" group-title="INFANTIL",DISCOVERY KIDS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/38.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DISCOVERY KIDS LATAM HD" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/596.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/gBYf0Fu.png" group-title="CULTURA",DISCOVERY SCIENCE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/50.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/S5At6tj.png" group-title="CULTURA",DISCOVERY THEATER
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/51.ts
+#EXTINF:-1 type="stream" tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://i.imgur.com/Ddm5zRy.png" group-title="CULTURA",DISCOVERY TLC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/52.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/4k67okL.png" group-title="CULTURA",DISCOVERY TURBO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/53.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/MzNuSpo.png?1" group-title="CULTURA",DISCOVERY WORLD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/54.ts
+#EXTINF:-1 type="stream" tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/TqFiWmF.png?1" group-title="INFANTIL",DISNEY CHANNEL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/45.ts
+#EXTINF:-1 type="stream" tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL LATAM HD" tvg-logo="http://i.imgur.com/TqFiWmF.png?1" group-title="INFANTIL",DISNEY CHANNEL LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/386.ts
+#EXTINF:-1 type="stream" tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR" tvg-logo="http://i.imgur.com/EuZIiHs.png?1" group-title="INFANTIL",DISNEY JR
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/44.ts
+#EXTINF:-1 type="stream" tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://i.imgur.com/pJ1M2zi.png?1" group-title="INFANTIL",DISNEY XD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/46.ts
+#EXTINF:-1 type="stream" tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://i.imgur.com/6KAjhTy.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/47.ts
+#EXTINF:-1 type="stream" tvg-id="EEntertainment.mx" tvg-name="E!" tvg-logo="http://server1.nerdtv.club/xml2/img2/e.jpeg" group-title="ENTRETENIMIENTO",E!
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/37.ts
+#EXTINF:-1 type="stream" tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="http://i.imgur.com/FiIHmRu.png" group-title="CULTURA",EL GOURMET
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/77.ts
+#EXTINF:-1 type="stream" tvg-id="El13.ar" tvg-name="EL TRECE ARG HD" tvg-logo="http://i.imgur.com/ZlCL223.png" group-title="SUDAMERICA",EL TRECE ARG HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/170.ts
+#EXTINF:-1 type="stream" tvg-id="ESPNLatin.mx" tvg-name="ESPN 1" tvg-logo="http://i.imgur.com/1kWfZvf.png?1" group-title="DEPORTES",ESPN 1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/123.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN Latin South Sur" tvg-name="ESPN 1 ARG HD" tvg-logo="http://i.imgur.com/1kWfZvf.png" group-title="DEPORTES",ESPN 1 ARG HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/400.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN Latin North (Mexico)" tvg-name="ESPN 1 HD" tvg-logo="http://i.imgur.com/1kWfZvf.png?1" group-title="CANALESHD",ESPN 1 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/474.ts
+#EXTINF:-1 type="stream" tvg-id="Espn2.mx" tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/2g7u1Jd.png?1" group-title="DEPORTES",ESPN 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/56.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARG HD" tvg-logo="http://i.imgur.com/2g7u1Jd.png?1" group-title="DEPORTES",ESPN 2 ARG HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/558.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN3.mx" tvg-name="ESPN 3" tvg-logo="http://i.imgur.com/oMAbGaM.png?1" group-title="DEPORTES",ESPN 3
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/57.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN 3 ARG HD" tvg-logo="http://i.imgur.com/oMAbGaM.png" group-title="DEPORTES",ESPN 3 ARG HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/399.ts
+#EXTINF:-1 type="stream" tvg-id="Canal ESPN Deportes" tvg-name="ESPN DEPORTES HD" tvg-logo="http://i.imgur.com/GXUN2Ej.png?1" group-title="DEPORTES",ESPN DEPORTES HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/144.ts
+#EXTINF:-1 type="stream" tvg-id="ESPNplus.mx" tvg-name="ESPN+" tvg-logo="http://i.imgur.com/qUAySeo.png" group-title="DEPORTES",ESPN+
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/58.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESTADIO CDF" tvg-logo="http://i.imgur.com/jX6ZHrq.png" group-title="DEPORTES",ESTADIO CDF
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/174.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://i.imgur.com/KPYxgfz.png" group-title="DEPORTES",EUROSPORT 1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/438.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://i.imgur.com/KPYxgfz.png" group-title="DEPORTES",EUROSPORT 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/430.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EV: MUNDIAL SD TELEMUNDO" tvg-logo="http://i.imgur.com/mfptGNh.jpg" group-title="PPEyHD",EV: MUNDIAL SD TELEMUNDO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/593.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EV.Mundial18:TDN AUDIO ESTEREO ROKUS Y WEB" tvg-logo="http://i.imgur.com/mfptGNh.jpg" group-title="PPEyHD",EV.Mundial18:TDN AUDIO ESTEREO ROKUS Y WEB
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/367.ts
+#EXTINF:-1 type="stream" tvg-id="TDN.mx" tvg-name="EV2.Mundial18:TDN TODOS LOS PARTIDOS" tvg-logo="http://i.imgur.com/WhIlxFD.jpg" group-title="PPEyHD",EV2.Mundial18:TDN TODOS LOS PARTIDOS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/366.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EV3.Mundial18:DIRECTV SPORT" tvg-logo="http://i.imgur.com/WhIlxFD.jpg" group-title="PPEyHD",EV3.Mundial18:DIRECTV SPORT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/364.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EV4.TELEMUNDO 48 HD  TODOS LOS PARTIDOS" tvg-logo="http://i.imgur.com/i4NNGqG.jpg" group-title="PPEyHD",EV4.TELEMUNDO 48 HD  TODOS LOS PARTIDOS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/535.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="EVENTO SE ANUNCIARA" tvg-logo="https://i.imgur.com/nNS8pm3.jpg" group-title="PPEyHD",EVENTO SE ANUNCIARA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/368.ts
+#EXTINF:-1 type="stream" tvg-id="EWTNEspanol.us" tvg-name="EWTN" tvg-logo="http://i.imgur.com/eQS1v99.png?1" group-title="NOTICIAS",EWTN
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/160.ts
+#EXTINF:-1 type="stream" tvg-id="UFCNetwork.mx" tvg-name="FIGHTING (UFC) HD" tvg-logo="http://i.imgur.com/T4w4UlG.png" group-title="DEPORTES",FIGHTING (UFC) HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/188.ts
+#EXTINF:-1 type="stream" tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://i.imgur.com/HNJjwpN.png" group-title="CULTURA",FOOD NETWORK
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/410.ts
+#EXTINF:-1 type="stream" tvg-id="ForoTv.mx" tvg-name="FORO TV" tvg-logo="http://i.imgur.com/D9ku5qs.png" group-title="NOTICIAS",FORO TV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/362.ts
+#EXTINF:-1 type="stream" tvg-id="FoxInternational.mx" tvg-name="FOX" tvg-logo="http://i.imgur.com/0vWvngO.png?1" group-title="ENTRETENIMIENTO",FOX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/124.ts
+#EXTINF:-1 type="stream" tvg-id="FoxAction.mx" tvg-name="FOX ACTION" tvg-logo="http://i.imgur.com/Bt1cmlk.png?1" group-title="CINE",FOX ACTION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/64.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX ACTION LATAM" tvg-logo="https://i.imgur.com/Bt1cmlk.png?1" group-title="CINE",FOX ACTION LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/581.ts
+#EXTINF:-1 type="stream" tvg-id="FoxCinema.mx" tvg-name="FOX CINEMA HD" tvg-logo="http://i.imgur.com/m0jMB9f.png?1" group-title="CINE",FOX CINEMA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/501.ts
+#EXTINF:-1 type="stream" tvg-id="FoxCinema.mx" tvg-name="FOX CINEMA SD" tvg-logo="http://i.imgur.com/m0jMB9f.png?1" group-title="CINE",FOX CINEMA SD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/65.ts
+#EXTINF:-1 type="stream" tvg-id="AMC.mx" tvg-name="FOX CLASSIC LATAM" tvg-logo="http://i.imgur.com/6LVRtEF.png?1" group-title="CINE",FOX CLASSIC LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/134.ts
+#EXTINF:-1 type="stream" tvg-id="FoxClassics.mx" tvg-name="FOX CLASSICS" tvg-logo="http://i.imgur.com/6LVRtEF.png?1" group-title="CINE",FOX CLASSICS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/66.ts
+#EXTINF:-1 type="stream" tvg-id="FoxComedy.mx" tvg-name="FOX COMEDY" tvg-logo="http://i.imgur.com/3I6tL9c.png" group-title="CINE",FOX COMEDY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/495.ts
+#EXTINF:-1 type="stream" tvg-id="FoxComedy.mx" tvg-name="FOX COMEDY HD" tvg-logo="http://i.imgur.com/3I6tL9c.png" group-title="CINE",FOX COMEDY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/423.ts
+#EXTINF:-1 type="stream" tvg-id="FoxDeportes.us" tvg-name="FOX DEPORTES USA HD" tvg-logo="http://i.imgur.com/yKfXQDx.png?1" group-title="DEPORTES",FOX DEPORTES USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/145.ts
+#EXTINF:-1 type="stream" tvg-id="Canal Fox Espana" tvg-name="FOX ESPANA" tvg-logo="http://i.imgur.com/0vWvngO.png?1" group-title="EUROPA",FOX ESPANA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/485.ts
+#EXTINF:-1 type="stream" tvg-id="FoxFamily.mx" tvg-name="FOX FAMILY" tvg-logo="http://i.imgur.com/iPOwIEC.png" group-title="CINE",FOX FAMILY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/494.ts
+#EXTINF:-1 type="stream" tvg-id="FoxFamily.mx" tvg-name="FOX FAMILY HD" tvg-logo="http://i.imgur.com/iPOwIEC.png" group-title="CINE",FOX FAMILY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/422.ts
+#EXTINF:-1 type="stream" tvg-id="FoxInternational.mx" tvg-name="FOX HD" tvg-logo="http://i.imgur.com/qbOV1nP.png?1" group-title="CANALESHD",FOX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/8.ts
+#EXTINF:-1 type="stream" tvg-id="Fox.ar" tvg-name="FOX LATAM HD" tvg-logo="http://i.imgur.com/qbOV1nP.png?1" group-title="ENTRETENIMIENTO",FOX LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/401.ts
+#EXTINF:-1 type="stream" tvg-id="FoxLife.mx" tvg-name="FOX LIFE" tvg-logo="http://i.imgur.com/ZmTtKa6.png" group-title="ENTRETENIMIENTO",FOX LIFE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/68.ts
+#EXTINF:-1 type="stream" tvg-id="FoxMovies.mx" tvg-name="FOX MOVIES" tvg-logo="http://i.imgur.com/Z3vpbp1.png" group-title="CINE",FOX MOVIES
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/69.ts
+#EXTINF:-1 type="stream" tvg-id="FoxMovies.mx" tvg-name="FOX MOVIES LATAM" tvg-logo="https://i.imgur.com/Z3vpbp1.png" group-title="CINE",FOX MOVIES LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/582.ts
+#EXTINF:-1 type="stream" tvg-id="FOXPremiumSeries.mx" tvg-name="FOX SERIES" tvg-logo="http://i.imgur.com/YgYYxJ2.png?1" group-title="CINE",FOX SERIES
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/63.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SERIES LATAM" tvg-logo="https://i.imgur.com/YgYYxJ2.png?1" group-title="CINE",FOX SERIES LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/580.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports.mx" tvg-name="FOX SPORTS 1 MEX" tvg-logo="http://i.imgur.com/j52iOQ6.png?1" group-title="DEPORTES",FOX SPORTS 1 MEX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/71.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports.mx" tvg-name="FOX SPORTS 1 MEX HD" tvg-logo="http://i.imgur.com/gFJQSar.png?1" group-title="CANALESHD",FOX SPORTS 1 MEX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/2.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MEX" tvg-logo="http://i.imgur.com/xLnFvSP.png?1" group-title="DEPORTES",FOX SPORTS 2 MEX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/70.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MEX HD" tvg-logo="http://i.imgur.com/fVqSKKJ.png?1" group-title="CANALESHD",FOX SPORTS 2 MEX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/3.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 MEX" tvg-logo="http://i.imgur.com/0ajH4d5.png?1" group-title="DEPORTES",FOX SPORTS 3 MEX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/256.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 MEX HD" tvg-logo="http://i.imgur.com/0ajH4d5.png?1" group-title="DEPORTES",FOX SPORTS 3 MEX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/431.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports.ar" tvg-name="FOX SPORTS ARG 1 HD" tvg-logo="http://i.imgur.com/j52iOQ6.png?1" group-title="DEPORTES",FOX SPORTS ARG 1 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/380.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS ARG 2 HD" tvg-logo="http://i.imgur.com/xLnFvSP.png?1" group-title="DEPORTES",FOX SPORTS ARG 2 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/382.ts
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 3 HDTV (Cono Sur)" tvg-name="FOX SPORTS ARG 3 HD" tvg-logo="http://i.imgur.com/0ajH4d5.png?1" group-title="DEPORTES",FOX SPORTS ARG 3 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/383.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="FOX SPORTS CHILE HD" tvg-logo="http://i.imgur.com/j52iOQ6.png?1" group-title="DEPORTES",FOX SPORTS CHILE HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/381.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSportsPremium.ar" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://i.imgur.com/mLzUNAt.png?1" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/17.ts
+#EXTINF:-1 type="stream" tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://i.imgur.com/EXcJ7YK.png?1" group-title="ENTRETENIMIENTO",FX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/125.ts
+#EXTINF:-1 type="stream" tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://i.imgur.com/EXcJ7YK.png?1" group-title="CANALESHD",FX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/9.ts
+#EXTINF:-1 type="stream" tvg-id="FX.ar" tvg-name="FX LATAM HD" tvg-logo="http://i.imgur.com/EXcJ7YK.png" group-title="ENTRETENIMIENTO",FX LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/404.ts
+#EXTINF:-1 type="stream" tvg-id="TheFilmZone.mx" tvg-name="FXM" tvg-logo="http://i.imgur.com/kpi1jHO.png" group-title="CINE",FXM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/453.ts
+#EXTINF:-1 type="stream" tvg-id="TheFilmZone.mx" tvg-name="FXM HD" tvg-logo="http://i.imgur.com/kpi1jHO.png" group-title="CANALESHD",FXM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/13.ts
+#EXTINF:-1 type="stream" tvg-id="GalaTV9Nacional.mx" tvg-name="GALA TV" tvg-logo="http://i.imgur.com/9rn4z9V.png" group-title="LOCALES",GALA TV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/72.ts
+#EXTINF:-1 type="stream" tvg-id="GarageTV.es" tvg-name="GARAGE" tvg-logo="http://i.imgur.com/03aBWD8.jpg?2" group-title="CULTURA",GARAGE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/73.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="GOL TV ESPANA" tvg-logo="http://i.imgur.com/rRbtWli.jpg" group-title="DEPORTES",GOL TV ESPANA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/219.ts
+#EXTINF:-1 type="stream" tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="http://img110.xooimage.com/files/b/e/8/golden-49c7251.png" group-title="CINE",GOLDEN
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/459.ts
+#EXTINF:-1 type="stream" tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://i.imgur.com/TNum7Kl.png" group-title="CINE",GOLDEN EDGE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/75.ts
+#EXTINF:-1 type="stream" tvg-id="Golden.mx" tvg-name="GOLDEN PLUS" tvg-logo="http://i.imgur.com/RsIkHh3.png" group-title="CINE",GOLDEN PLUS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/76.ts
+#EXTINF:-1 type="stream" tvg-id="Golden.mx" tvg-name="GOLDEN PLUS HD" tvg-logo="http://i.imgur.com/RsIkHh3.png" group-title="CANALESHD",GOLDEN PLUS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/285.ts
+#EXTINF:-1 type="stream" tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER DUAL" tvg-logo="http://i.imgur.com/OdCioq7.png" group-title="HBO",GOLDEN PREMIER DUAL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/502.ts
+#EXTINF:-1 type="stream" tvg-id="Canal Golf Channel" tvg-name="GOLF LATIN AMERICA" tvg-logo="http://i.imgur.com/hx6qLQx.png" group-title="DEPORTES",GOLF LATIN AMERICA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/439.ts
+#EXTINF:-1 type="stream" tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV LATINO HD" tvg-logo="http://i.imgur.com/lZjg5Ax.png" group-title="DEPORTES",GOLTV LATINO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/218.ts
+#EXTINF:-1 type="stream" tvg-id="History2LatinAmerica.pa" tvg-name="H2 LATAM HD" tvg-logo="http://i.imgur.com/S5nGOy7.png" group-title="CULTURA",H2 LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/253.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="HBO  USA" tvg-logo="http://i.imgur.com/rHSChqu.png?1" group-title="HBO",HBO  USA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/437.ts
+#EXTINF:-1 type="stream" tvg-id="HBO Latin America HDTV (East)" tvg-name="HBO 1 LATAM DUAL AUDIO HD" tvg-logo="http://i.imgur.com/rHSChqu.png" group-title="HBO",HBO 1 LATAM DUAL AUDIO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/396.ts
+#EXTINF:-1 type="stream" tvg-id="HBO Latin America HDTV (East)" tvg-name="HBO 1 LATAM HD" tvg-logo="http://i.imgur.com/rHSChqu.png?1" group-title="HBO",HBO 1 LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/498.ts
+#EXTINF:-1 type="stream" tvg-id="HBO.mx" tvg-name="HBO 1 MEX HD" tvg-logo="http://i.imgur.com/eVZD29c.png" group-title="HBO",HBO 1 MEX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/305.ts
+#EXTINF:-1 type="stream" tvg-id="HBO 2 (Panamerican)" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/uBNqGGD.png" group-title="HBO",HBO 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/413.ts
+#EXTINF:-1 type="stream" tvg-id="HBO2.mx" tvg-name="HBO 2 HD" tvg-logo="http://i.imgur.com/uBNqGGD.png" group-title="HBO",HBO 2 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/442.ts
+#EXTINF:-1 type="stream" tvg-id="HBO 2 (Panamerican)" tvg-name="HBO 2 LATAM HD" tvg-logo="http://i.imgur.com/ke2b8l0.png" group-title="HBO",HBO 2 LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/163.ts
+#EXTINF:-1 type="stream" tvg-id="HBO2.us" tvg-name="HBO 2 USA  HD" tvg-logo="http://i.imgur.com/ke2b8l0.png" group-title="HBO",HBO 2 USA  HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/409.ts
+#EXTINF:-1 type="stream" tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY LATAM HD" tvg-logo="http://i.imgur.com/FkeyjuV.png" group-title="HBO",HBO FAMILY LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/325.ts
+#EXTINF:-1 type="stream" tvg-id="HBOFamily.us" tvg-name="HBO FAMILY USA HD" tvg-logo="http://i.imgur.com/FkeyjuV.png" group-title="HBO",HBO FAMILY USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/420.ts
+#EXTINF:-1 type="stream" tvg-id="HBO Plus (Panamericano)" tvg-name="HBO PLUS LATAM HD" tvg-logo="http://i.imgur.com/nU8eqRQ.png?1" group-title="HBO",HBO PLUS LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/499.ts
+#EXTINF:-1 type="stream" tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO SIGNATURE HD" tvg-logo="http://i.imgur.com/z5lxiPN.png" group-title="HBO",HBO SIGNATURE HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/443.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="HBO SIGNATURE LATAM HD" tvg-logo="http://i.imgur.com/nMGzRA9.png" group-title="HBO",HBO SIGNATURE LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/500.ts
+#EXTINF:-1 type="stream" tvg-id="HBOSignature.us" tvg-name="HBO SIGNATURE USA HD" tvg-logo="http://i.imgur.com/nMGzRA9.png" group-title="HBO",HBO SIGNATURE USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/262.ts
+#EXTINF:-1 type="stream" tvg-id="HBOLatino.us" tvg-name="HBO USA LATINO HD" tvg-logo="http://i.imgur.com/s7lFY3L.png" group-title="HBO",HBO USA LATINO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/369.ts
+#EXTINF:-1 type="stream" tvg-id="Historia.es" tvg-name="HISTORIA" tvg-logo="http://i.imgur.com/0NWI2Ib.png" group-title="EUROPA",HISTORIA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/484.ts
+#EXTINF:-1 type="stream" tvg-id="HistoryChannel.mx" tvg-name="HISTORY" tvg-logo="http://server1.nerdtv.club/xml2/logos/historyhd.png" group-title="CULTURA",HISTORY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/126.ts
+#EXTINF:-1 type="stream" tvg-id="HistoryChannel.mx" tvg-name="HISTORY HD" tvg-logo="http://server1.nerdtv.club/xml2/logos/historyhd.png" group-title="CANALESHD",HISTORY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/15.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="HISTORY LATAM SD" tvg-logo="http://server1.nerdtv.club/xml2/logos/historyhd.png" group-title="CULTURA",HISTORY LATAM SD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/594.ts
+#EXTINF:-1 type="stream" tvg-id="Hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="http://i.imgur.com/Ne1bLub.png" group-title="EUROPA",HOLLYWOOD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/483.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="IMAGEN TV" tvg-logo="http://i.imgur.com/EmLoX0r.png?1" group-title="LOCALES",IMAGEN TV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/136.ts
+#EXTINF:-1 type="stream" tvg-id="InvestigationDiscovery.mx" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://i.imgur.com/8PdSYuP.png?1" group-title="CULTURA",INVESTIGATION DISCOVERY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/178.ts
+#EXTINF:-1 type="stream" tvg-id="LaLigaTV.es" tvg-name="LA LIGA TV HD" tvg-logo="http://i.imgur.com/YDxbsZd.png?1" group-title="DEPORTES",LA LIGA TV HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/140.ts
+#EXTINF:-1 type="stream" tvg-id="LA1.es" tvg-name="LA1" tvg-logo="" group-title="EUROPA",LA1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/568.ts
+#EXTINF:-1 type="stream" tvg-id="LA2.es" tvg-name="LA2" tvg-logo="http://i.imgur.com/ZjjHHZL.png" group-title="EUROPA",LA2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/571.ts
+#EXTINF:-1 type="stream" tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://i.imgur.com/nX5EM2D.png" group-title="LOCALES",LAS ESTRELLAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/107.ts
+#EXTINF:-1 type="stream" tvg-id="Lifetime.mx" tvg-name="LIFETIME" tvg-logo="http://i.imgur.com/Opj0bU7.png?1" group-title="ENTRETENIMIENTO",LIFETIME
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/82.ts
+#EXTINF:-1 type="stream" tvg-id="LifeTimeLatinAmerica.pa" tvg-name="LIFETIME LATAM HD" tvg-logo="http://i.imgur.com/Opj0bU7.png?1" group-title="ENTRETENIMIENTO",LIFETIME LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/537.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="LOCOMOTION" tvg-logo="http://i.imgur.com/BvfqLAv.png" group-title="ENTRETENIMIENTO",LOCOMOTION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/425.ts
+#EXTINF:-1 type="stream" tvg-id="Mariavision.mx" tvg-name="MARIAVISION" tvg-logo="http://i.imgur.com/k2PSQ4J.png" group-title="CULTURA",MARIAVISION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/159.ts
+#EXTINF:-1 type="stream" tvg-id="MasChicTV.mx" tvg-name="MAS CHIC" tvg-logo="http://i.imgur.com/BsmoX5R.png?1" group-title="ENTRETENIMIENTO",MAS CHIC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/83.ts
+#EXTINF:-1 type="stream" tvg-id="MAX Prime HDTV (Panamericano)" tvg-name="MAX PRIME HD" tvg-logo="http://i.imgur.com/ZxcAJat.jpg" group-title="HBO",MAX PRIME HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/503.ts
+#EXTINF:-1 type="stream" tvg-id="MAX UP (Panamerican) 541" tvg-name="MAX UP HD" tvg-logo="http://i.imgur.com/FjYY1aZ.png" group-title="HBO",MAX UP HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/360.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="MC" tvg-logo="http://i.imgur.com/TLwSNAe.png" group-title="CINE",MC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/341.ts
+#EXTINF:-1 type="stream" tvg-id="Mega.cl" tvg-name="MEGA CHILE INTERNACIONAL HD" tvg-logo="http://i.imgur.com/eOYlzI3.png" group-title="SUDAMERICA",MEGA CHILE INTERNACIONAL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/526.ts
+#EXTINF:-1 type="stream" tvg-id="Mega.es" tvg-name="MEGA ESPANA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2000px-MEGA.svg.png" group-title="EUROPA",MEGA ESPANA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/151.ts
+#EXTINF:-1 type="stream" tvg-id="MilenioTelevision.mx" tvg-name="MILENIO" tvg-logo="http://i.imgur.com/UXfFciM.png" group-title="NOTICIAS",MILENIO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/84.ts
+#EXTINF:-1 type="stream" tvg-id="MilenioTelevision.mx" tvg-name="MILENIO (WEB)" tvg-logo="http://i.imgur.com/UXfFciM.png" group-title="NOTICIAS",MILENIO (WEB)
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/507.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarAccion.es" tvg-name="MOVISTAR ACCION" tvg-logo="http://i.imgur.com/TEDSN3J.png" group-title="EUROPA",MOVISTAR ACCION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/489.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarComedia.es" tvg-name="MOVISTAR COMEDIA" tvg-logo="http://vertelevisor.com/imagenes/movistar-comedia.png" group-title="EUROPA",MOVISTAR COMEDIA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/492.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarDCine.es" tvg-name="MOVISTAR DCINE" tvg-logo="http://i.imgur.com/QmIcLzh.png" group-title="EUROPA",MOVISTAR DCINE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/488.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarDeportes.es" tvg-name="MOVISTAR DEPORTES 1" tvg-logo="http://i.imgur.com/wRFjqlh.png" group-title="DEPORTES",MOVISTAR DEPORTES 1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/384.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarDeportes2.es" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="http://i.imgur.com/NHJhAh1.png" group-title="DEPORTES",MOVISTAR DEPORTES 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/428.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarEstrenos.es" tvg-name="MOVISTAR ESTRENO" tvg-logo="http://i.imgur.com/EFGUH22.jpg" group-title="EUROPA",MOVISTAR ESTRENO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/491.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarFormula1.es" tvg-name="MOVISTAR F1" tvg-logo="http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png" group-title="DEPORTES",MOVISTAR F1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/175.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarFutbol.es" tvg-name="MOVISTAR FUTBOL" tvg-logo="http://i.imgur.com/SJrgMvL.png" group-title="DEPORTES",MOVISTAR FUTBOL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/215.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarMotoGP.es" tvg-name="MOVISTAR MOTO GP" tvg-logo="http://i.imgur.com/Z3HHSOI.png" group-title="DEPORTES",MOVISTAR MOTO GP
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/562.ts
+#EXTINF:-1 type="stream" tvg-id="CcanalPlusSeriesXtra.es" tvg-name="MOVISTAR SERIES XTRA" tvg-logo="http://i.imgur.com/sfYpOBK.png" group-title="EUROPA",MOVISTAR SERIES XTRA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/487.ts
+#EXTINF:-1 type="stream" tvg-id="MovistarXtra.es" tvg-name="MOVISTAR XTRA" tvg-logo="http://i.imgur.com/2SlkXsf.png" group-title="EUROPA",MOVISTAR XTRA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/486.ts
+#EXTINF:-1 type="stream" tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://i.imgur.com/654jZMl.png" group-title="MUSICA",MTV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/87.ts
+#EXTINF:-1 type="stream" tvg-id="Canal MTV Hits" tvg-name="MTV HITS" tvg-logo="http://s-media-cache-ak0.pinimg.com/originals/ae/f4/a4/aef4a454d635b0443de925ae67137165.jpg" group-title="MUSICA",MTV HITS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/85.ts
+#EXTINF:-1 type="stream" tvg-id="MTVLive.us" tvg-name="MTV LIVE" tvg-logo="http://i0.wp.com/www.luisgyg.com/wp-content/uploads/2012/08/MTV.png?resize=500%2C397" group-title="MUSICA",MTV LIVE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/86.ts
+#EXTINF:-1 type="stream" tvg-id="Multimedios.mx" tvg-name="MULTIMEDIOS (MULTIBITRATE)" tvg-logo="http://i.imgur.com/Kca2afZ.png?1" group-title="LOCALES",MULTIMEDIOS (MULTIBITRATE)
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/524.ts
+#EXTINF:-1 type="stream" tvg-id="Multimedios.mx" tvg-name="MULTIMEDIOS HD" tvg-logo="http://i.imgur.com/Kca2afZ.png?1" group-title="CANALESHD",MULTIMEDIOS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/88.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="MULTIMEDIOS PLUS" tvg-logo="http://i.imgur.com/Kca2afZ.png?1" group-title="LOCALES",MULTIMEDIOS PLUS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/191.ts
+#EXTINF:-1 type="stream" tvg-id="Multipremier.mx" tvg-name="MULTIPREMIER" tvg-logo="http://i.imgur.com/RWdpaS9.png" group-title="CINE",MULTIPREMIER
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/244.ts
+#EXTINF:-1 type="stream" tvg-id="NatGeo.mx" tvg-name="NAT GEO" tvg-logo="http://i.imgur.com/725DiTd.png" group-title="CULTURA",NAT GEO
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/89.ts
+#EXTINF:-1 type="stream" tvg-id="Nat Geo Kids (Chile - MÃ©xico) 350" tvg-name="NAT GEO KIDS" tvg-logo="http://i.imgur.com/IxOr3GE.png?1" group-title="INFANTIL",NAT GEO KIDS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/390.ts
+#EXTINF:-1 type="stream" tvg-id="NatGeoMundo.us" tvg-name="NAT GEO MUNDO HD" tvg-logo="http://i.imgur.com/sBhDfOY.png" group-title="CULTURA",NAT GEO MUNDO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/248.ts
+#EXTINF:-1 type="stream" tvg-id="NatGeoWild.mx" tvg-name="NAT GEO WILD" tvg-logo="http://i.imgur.com/XO9hzib.png?1" group-title="CULTURA",NAT GEO WILD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/90.ts
+#EXTINF:-1 type="stream" tvg-id="NatGeoKids.mx" tvg-name="NATGEO KIDS SD" tvg-logo="http://i.imgur.com/IxOr3GE.png?1" group-title="INFANTIL",NATGEO KIDS SD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/462.ts
+#EXTINF:-1 type="stream" tvg-id="NBCUniverso.us" tvg-name="NBC UNIVERSO HD" tvg-logo="http://i.imgur.com/5dgayLt.png" group-title="LATINOSUSA",NBC UNIVERSO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/198.ts
+#EXTINF:-1 type="stream" tvg-id="Neox.es" tvg-name="NEOX HD" tvg-logo="http://i.imgur.com/WSSwUzo.png" group-title="EUROPA",NEOX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/156.ts
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon.mx" tvg-name="NICK" tvg-logo="http://i.imgur.com/QOFRCOh.png?1" group-title="INFANTIL",NICK
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/91.ts
+#EXTINF:-1 type="stream" tvg-id="Nick2.mx" tvg-name="NICK 2" tvg-logo="http://i.imgur.com/dZZYZjq.png" group-title="INFANTIL",NICK 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/93.ts
+#EXTINF:-1 type="stream" tvg-id="Canal Nick Jr." tvg-name="NICK JR" tvg-logo="http://i.imgur.com/7Jnjhay.png?1" group-title="INFANTIL",NICK JR
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/92.ts
+#EXTINF:-1 type="stream" tvg-id="NicktoonsLatinAmerica.pa" tvg-name="NICK TOONS" tvg-logo="http://i.imgur.com/ZxjYbPD.png?1" group-title="INFANTIL",NICK TOONS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/94.ts
+#EXTINF:-1 type="stream" tvg-id="Nova.es" tvg-name="NOVA HD" tvg-logo="http://alfabass-tvfree.do.am/_si/0/91850690.png" group-title="EUROPA",NOVA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/155.ts
+#EXTINF:-1 type="stream" tvg-id="Pasiones.us" tvg-name="PASIONES HD" tvg-logo="http://i.imgur.com/o31UKFV.png" group-title="LOCALES",PASIONES HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/534.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="RCN HD" tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png" group-title="SUDAMERICA",RCN HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/181.ts
+#EXTINF:-1 type="stream" tvg-id="Canal RCN Novelas" tvg-name="RCN NOVELAS" tvg-logo="http://rcnnovelas.com/wp-content/uploads/2015/07/logo_RCNNovelas.png" group-title="SUDAMERICA",RCN NOVELAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/321.ts
+#EXTINF:-1 type="stream" tvg-id="RcnNuestra.co" tvg-name="RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" group-title="SUDAMERICA",RCN NUESTRA TELE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/211.ts
+#EXTINF:-1 type="stream" tvg-id="Ritmoson.mx" tvg-name="RITMOSON" tvg-logo="http://i.imgur.com/P2ud312.png" group-title="MUSICA",RITMOSON
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/98.ts
+#EXTINF:-1 type="stream" tvg-id="RTEspanol.ru" tvg-name="RT ESP" tvg-logo="" group-title="EUROPA",RT ESP
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/567.ts
+#EXTINF:-1 type="stream" tvg-id="RTEspanol.ru" tvg-name="RT ESPANOL" tvg-logo="http://i.imgur.com/QJtQLdQ.png" group-title="NOTICIAS",RT ESPANOL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/434.ts
+#EXTINF:-1 type="stream" tvg-id="LaSexta.es" tvg-name="SEXTA HD" tvg-logo="http://i.imgur.com/5DxgJyp.png" group-title="EUROPA",SEXTA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/154.ts
+#EXTINF:-1 type="stream" tvg-id="SkySportsF1.uk" tvg-name="SKYSPORT F1" tvg-logo="http://i.imgur.com/R0MTE4L.png" group-title="DEPORTES",SKYSPORT F1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/464.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="SKYSPORT FUTBOL" tvg-logo="http://i.imgur.com/R0MTE4L.png" group-title="DEPORTES",SKYSPORT FUTBOL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/481.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="SKYSPORT MAIN" tvg-logo="http://i.imgur.com/R0MTE4L.png" group-title="DEPORTES",SKYSPORT MAIN
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/465.ts
+#EXTINF:-1 type="stream" tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYSPORT PREMIER" tvg-logo="http://i.imgur.com/R0MTE4L.png" group-title="DEPORTES",SKYSPORT PREMIER
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/466.ts
+#EXTINF:-1 type="stream" tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="http://i.imgur.com/gxBKSyE.png" group-title="ENTRETENIMIENTO",SONY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/99.ts
+#EXTINF:-1 type="stream" tvg-id="SpaceLatinAmerica" tvg-name="SPACE  HD" tvg-logo="http://i.imgur.com/ilkweZT.png" group-title="CANALESHD",SPACE  HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/1.ts
+#EXTINF:-1 type="stream" tvg-id="SpaceLatinAmerica" tvg-name="SPACE LATAM" tvg-logo="http://i.imgur.com/ilkweZT.png" group-title="CINE",SPACE LATAM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/421.ts
+#EXTINF:-1 type="stream" tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/JOCifcq.png?1" group-title="CINE",STUDIO UNIVERSAL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/114.ts
+#EXTINF:-1 type="stream" tvg-id="Syfy.mx" tvg-name="SYFY" tvg-logo="http://i.imgur.com/1clN2FW.png?1" group-title="CINE",SYFY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/101.ts
+#EXTINF:-1 type="stream" tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://i.imgur.com/Ali3ahG.png?1" group-title="CINE",TBS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/102.ts
+#EXTINF:-1 type="stream" tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://i.imgur.com/MGZ8mRU.png?1" group-title="CINE",TCM
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/103.ts
+#EXTINF:-1 type="stream" tvg-id="TDN.mx" tvg-name="TDN HD" tvg-logo="http://i.imgur.com/idsxPid.png" group-title="DEPORTES",TDN HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/538.ts
+#EXTINF:-1 type="stream" tvg-id="Telefe.ar" tvg-name="TELEFE HD" tvg-logo="http://i.imgur.com/MqYxA.png" group-title="SUDAMERICA",TELEFE HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/169.ts
+#EXTINF:-1 type="stream" tvg-id="Telehit.mx" tvg-name="TELEHIT" tvg-logo="http://i.imgur.com/N2C31E3.png" group-title="MUSICA",TELEHIT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/105.ts
+#EXTINF:-1 type="stream" tvg-id="TelemundoWKAQ.us" tvg-name="TELEMUNDO 47 HD" tvg-logo="http://i.imgur.com/SoRxD04.png" group-title="LATINOSUSA",TELEMUNDO 47 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/131.ts
+#EXTINF:-1 type="stream" tvg-id="Telemundo.mx" tvg-name="TELEMUNDO 48 HD" tvg-logo="http://i.imgur.com/zFgO1kd.jpg" group-title="LATINOSUSA",TELEMUNDO 48 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/589.ts
+#EXTINF:-1 type="stream" tvg-id="Telemundo.mx" tvg-name="TELEMUNDO MUNDIAL TODOS LOS PARTIDOS" tvg-logo="http://i.imgur.com/i4NNGqG.jpg" group-title="PPEyHD",TELEMUNDO MUNDIAL TODOS LOS PARTIDOS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/365.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="TELEVISA MONTERREY" tvg-logo="http://i.imgur.com/eBpdunW.jpg" group-title="LOCALES",TELEVISA MONTERREY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/343.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="TELEVISA PUEBLA" tvg-logo="http://i.imgur.com/xTLiIv9.png" group-title="LOCALES",TELEVISA PUEBLA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/252.ts
+#EXTINF:-1 type="stream" tvg-id="WeatherChannel.us" tvg-name="THE WEATHER CHANNEL HD" tvg-logo="http://i.imgur.com/dvx9r1x.png" group-title="NOTICIAS",THE WEATHER CHANNEL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/392.ts
+#EXTINF:-1 type="stream" tvg-id="TiiN.mx" tvg-name="TIIN" tvg-logo="http://i.imgur.com/8hyvBcH.png" group-title="INFANTIL",TIIN
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/106.ts
+#EXTINF:-1 type="stream" tvg-id="TeleNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://i.imgur.com/kYYXWLU.png" group-title="LOCALES",TL NOVELAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/95.ts
+#EXTINF:-1 type="stream" tvg-id="TN.ar" tvg-name="TN ARGENTINA" tvg-logo="http://i.imgur.com/YcjqQN0.png" group-title="SUDAMERICA",TN ARGENTINA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/528.ts
+#EXTINF:-1 type="stream" tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://i.imgur.com/ua0j7lw.png" group-title="CINE",TNT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/108.ts
+#EXTINF:-1 type="stream" tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/ua0j7lw.png" group-title="CANALESHD",TNT HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/471.ts
+#EXTINF:-1 type="stream" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://i.imgur.com/CMSISMe.png?1" group-title="ENTRETENIMIENTO",TNT SERIES
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/432.ts
+#EXTINF:-1 type="stream" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES HD" tvg-logo="http://i.imgur.com/CMSISMe.png?1" group-title="CANALESHD",TNT SERIES HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/14.ts
+#EXTINF:-1 type="stream" tvg-id="TNTSports.ar" tvg-name="TNT SPORTS HD" tvg-logo="http://i.imgur.com/yyNCaze.png" group-title="DEPORTES",TNT SPORTS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/389.ts
+#EXTINF:-1 type="stream" tvg-id="TooncastLatinAmerica.pa" tvg-name="TOONCAST" tvg-logo="http://i.imgur.com/xSqT7Ay.png" group-title="INFANTIL",TOONCAST
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/109.ts
+#EXTINF:-1 type="stream" tvg-id="truTV.mx" tvg-name="TRU TV" tvg-logo="http://i.imgur.com/lf4QwuL.png?1" group-title="ENTRETENIMIENTO",TRU TV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/129.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="TSN SPORT" tvg-logo="http://i.imgur.com/A7lrj7E.png" group-title="DEPORTES",TSN SPORT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/467.ts
+#EXTINF:-1 type="stream" tvg-id="TVChile.cl" tvg-name="TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="SUDAMERICA",TV CHILE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/273.ts
+#EXTINF:-1 type="stream" tvg-id="TVVenezuela.us" tvg-name="TV VENEZUELA" tvg-logo="http://i.imgur.com/K5AJFVF.png" group-title="SUDAMERICA",TV VENEZUELA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/179.ts
+#EXTINF:-1 type="stream" tvg-id="Canal TVC Deportes" tvg-name="TVC DEPORTES" tvg-logo="http://i.imgur.com/z9cccN7.png" group-title="DEPORTES",TVC DEPORTES
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/313.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="TVMAS" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="LOCALES",TVMAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/461.ts
+#EXTINF:-1 type="stream" tvg-id="TYCSports.ar" tvg-name="TYC SPORTS HD" tvg-logo="http://i.imgur.com/071R9XB.png" group-title="DEPORTES",TYC SPORTS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/148.ts
+#EXTINF:-1 type="stream" tvg-id="BoxNation.uk" tvg-name="UK: BOX NATION" tvg-logo="http://i.imgur.com/jaNmfRX.png" group-title="DEPORTES",UK: BOX NATION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/444.ts
+#EXTINF:-1 type="stream" tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://i.imgur.com/SNe4LxE.png" group-title="LOCALES",UNICABLE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/213.ts
+#EXTINF:-1 type="stream" tvg-id="UniMas.us" tvg-name="UNIMAS HD" tvg-logo="http://i.imgur.com/6WEycRL.png" group-title="LATINOSUSA",UNIMAS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/217.ts
+#EXTINF:-1 type="stream" tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/bah8Urh.png?1" group-title="CINE",UNIVERSAL CHANNEL
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/113.ts
+#EXTINF:-1 type="stream" tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://i.imgur.com/bah8Urh.png?1" group-title="CANALESHD",UNIVERSAL CHANNEL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/7.ts
+#EXTINF:-1 type="stream" tvg-id="UniversalChannel.ar" tvg-name="UNIVERSAL CHANNEL LATAM HD" tvg-logo="http://i.imgur.com/bah8Urh.png" group-title="CINE",UNIVERSAL CHANNEL LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/402.ts
+#EXTINF:-1 type="stream" tvg-id="Univision.us" tvg-name="UNIVISION" tvg-logo="http://i.imgur.com/wwQGe2t.png?1" group-title="LATINOSUSA",UNIVISION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/546.ts
+#EXTINF:-1 type="stream" tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION DEPORTES USA HD" tvg-logo="http://i.imgur.com/IQIX5qU.png?1" group-title="DEPORTES",UNIVISION DEPORTES USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/141.ts
+#EXTINF:-1 type="stream" tvg-id="UnivisionDeportes.us" tvg-name="UNIVISION DEPORTES USA HD (OPC 2)" tvg-logo="http://i.imgur.com/IQIX5qU.png?1" group-title="DEPORTES",UNIVISION DEPORTES USA HD (OPC 2)
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/463.ts
+#EXTINF:-1 type="stream" tvg-id="Univision.us" tvg-name="UNIVISION HD" tvg-logo="http://i.imgur.com/wwQGe2t.png?1" group-title="LATINOSUSA",UNIVISION HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/133.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="UNIVISION TDN (MULTIBITRATE)" tvg-logo="" group-title="DEPORTES",UNIVISION TDN (MULTIBITRATE)
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/592.ts
+#EXTINF:-1 type="stream" tvg-id="UnivisionTelenovelas.us" tvg-name="UNIVISION TELENOVELAS" tvg-logo="http://i.imgur.com/rDBK8eL.png" group-title="LATINOSUSA",UNIVISION TELENOVELAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/216.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN2.us" tvg-name="USA ESPN 2  HD" tvg-logo="http://i.imgur.com/2g7u1Jd.png" group-title="DEPORTES",USA ESPN 2  HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/407.ts
+#EXTINF:-1 type="stream" tvg-id="ESPN.us" tvg-name="USA: ESPN 1 HD" tvg-logo="http://i.imgur.com/1kWfZvf.png?1" group-title="DEPORTES",USA: ESPN 1 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/272.ts
+#EXTINF:-1 type="stream" tvg-id="FightNetwork.ca" tvg-name="USA: FIGHT NETWORK HD" tvg-logo="http://i.imgur.com/v0AexDR.png" group-title="DEPORTES",USA: FIGHT NETWORK HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/270.ts
+#EXTINF:-1 type="stream" tvg-id="ParamountNetwork.us" tvg-name="USA: PARAMOUNT" tvg-logo="http://i.imgur.com/RlJqHAj.png" group-title="UNITEDSTATES",USA: PARAMOUNT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/371.ts
+#EXTINF:-1 type="stream" tvg-id="AandE.us" tvg-name="USA:A&E HD" tvg-logo="http://i.imgur.com/tWKSYZZ.png?1" group-title="UNITEDSTATES",USA:A&E HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/201.ts
+#EXTINF:-1 type="stream" tvg-id="ABC.ustvnow" tvg-name="USA:ABC HD" tvg-logo="http://i.imgur.com/g1QHtXG.png?1" group-title="UNITEDSTATES",USA:ABC HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/370.ts
+#EXTINF:-1 type="stream" tvg-id="AMC.us" tvg-name="USA:AMC HD" tvg-logo="http://i.imgur.com/yxNXfI0.png?1" group-title="UNITEDSTATES",USA:AMC HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/275.ts
+#EXTINF:-1 type="stream" tvg-id="AnimalPlanet.us" tvg-name="USA:ANIMAL PLANET HD" tvg-logo="http://i.imgur.com/bPlUVH8.png?1" group-title="UNITEDSTATES",USA:ANIMAL PLANET HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/247.ts
+#EXTINF:-1 type="stream" tvg-id="Bravo.us" tvg-name="USA:BRAVO HD" tvg-logo="http://i.imgur.com/l8rn8C1.png" group-title="UNITEDSTATES",USA:BRAVO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/202.ts
+#EXTINF:-1 type="stream" tvg-id="CBS21WHP.us" tvg-name="USA:CBS 21 HD" tvg-logo="http://i.imgur.com/UEwLHYk.png" group-title="UNITEDSTATES",USA:CBS 21 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/373.ts
+#EXTINF:-1 type="stream" tvg-id="CBSSportsNetwork.us" tvg-name="USA:CBS SPORTS NETWORK" tvg-logo="http://i.imgur.com/PJ82AZr.png" group-title="DEPORTES",USA:CBS SPORTS NETWORK
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/249.ts
+#EXTINF:-1 type="stream" tvg-id="ActionMax.us" tvg-name="USA:CINEMAX ACTION MAX" tvg-logo="http://i.imgur.com/qsRo3oa.png" group-title="UNITEDSTATES",USA:CINEMAX ACTION MAX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/326.ts
+#EXTINF:-1 type="stream" tvg-id="Cinemax.us" tvg-name="USA:CINEMAX HD" tvg-logo="http://i.imgur.com/zTmmXTN.png?1" group-title="UNITEDSTATES",USA:CINEMAX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/363.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:CINEMAX MOVIEMAX" tvg-logo="http://i.imgur.com/xwREHFf.png?1" group-title="UNITEDSTATES",USA:CINEMAX MOVIEMAX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/329.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:CNBC" tvg-logo="http://i.imgur.com/KRBRgGk.png" group-title="UNITEDSTATES",USA:CNBC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/451.ts
+#EXTINF:-1 type="stream" tvg-id="ComedyCentral.us" tvg-name="USA:COMEDY CENTRAL HD" tvg-logo="http://i.imgur.com/vHCMSmh.png" group-title="UNITEDSTATES",USA:COMEDY CENTRAL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/377.ts
+#EXTINF:-1 type="stream" tvg-id="CW.us" tvg-name="USA:CW HD" tvg-logo="http://i.imgur.com/ZBkbvXH.png" group-title="UNITEDSTATES",USA:CW HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/322.ts
+#EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.us" tvg-name="USA:DISCOVERY HD" tvg-logo="http://i.imgur.com/7esSTf4.png?1" group-title="UNITEDSTATES",USA:DISCOVERY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/376.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:E" tvg-logo="http://i.imgur.com/IthhXx0.png?1" group-title="UNITEDSTATES",USA:E
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/530.ts
+#EXTINF:-1 type="stream" tvg-id="ElRey.us" tvg-name="USA:ELREY" tvg-logo="http://i.imgur.com/dx7u1Nm.png" group-title="UNITEDSTATES",USA:ELREY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/454.ts
+#EXTINF:-1 type="stream" tvg-id="Estrella.us" tvg-name="USA:ESTRELLATV" tvg-logo="http://i.imgur.com/VpA1Yjn.png" group-title="LATINOSUSA",USA:ESTRELLATV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/235.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:FOX NEWS CHANNEL HD" tvg-logo="http://i.imgur.com/sVhWwYG.png" group-title="UNITEDSTATES",USA:FOX NEWS CHANNEL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/314.ts
+#EXTINF:-1 type="stream" tvg-id="FOXSoccerPlus.us" tvg-name="USA:FOX SOCCER PLUS HD" tvg-logo="http://i.imgur.com/62xOaGj.png?1" group-title="DEPORTES",USA:FOX SOCCER PLUS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/222.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports1.us" tvg-name="USA:FOX SPORTS USA" tvg-logo="http://i.imgur.com/yKfXQDx.png?1" group-title="DEPORTES",USA:FOX SPORTS USA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/433.ts
+#EXTINF:-1 type="stream" tvg-id="Freeform.us" tvg-name="USA:FREEFORM HD" tvg-logo="http://cdn1.edgedatg.com/aws/assets/cp/web/freeform/images/freeform_logo.png" group-title="UNITEDSTATES",USA:FREEFORM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/246.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports1.us" tvg-name="USA:FS1 HD" tvg-logo="http://i.imgur.com/JBDJwrE.png?1" group-title="DEPORTES",USA:FS1 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/223.ts
+#EXTINF:-1 type="stream" tvg-id="FoxSports2.us" tvg-name="USA:FS2 HD" tvg-logo="http://i.imgur.com/mR7Eerp.jpg?1" group-title="DEPORTES",USA:FS2 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/240.ts
+#EXTINF:-1 type="stream" tvg-id="FX.us" tvg-name="USA:FX HD" tvg-logo="http://i.imgur.com/EXcJ7YK.png?1" group-title="UNITEDSTATES",USA:FX HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/245.ts
+#EXTINF:-1 type="stream" tvg-id="FXX.us" tvg-name="USA:FXX" tvg-logo="http://i.imgur.com/dJilOW0.png" group-title="UNITEDSTATES",USA:FXX
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/525.ts
+#EXTINF:-1 type="stream" tvg-id="Galavision.us" tvg-name="USA:GALAVISION" tvg-logo="http://i.imgur.com/Tl3ML4N.png" group-title="LATINOSUSA",USA:GALAVISION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/135.ts
+#EXTINF:-1 type="stream" tvg-id="GolfChannel.us" tvg-name="USA:GOLF CHANNEL HD" tvg-logo="http://i.imgur.com/yI7ITn0.png" group-title="DEPORTES",USA:GOLF CHANNEL HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/445.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:HGTV" tvg-logo="http://i.imgur.com/aEoIqf7.png" group-title="UNITEDSTATES",USA:HGTV
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/522.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:HISTORY HD" tvg-logo="http://i.imgur.com/tZ9DAHj.png?1" group-title="UNITEDSTATES",USA:HISTORY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/203.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:IFC" tvg-logo="http://i.imgur.com/dv5TzMT.jpg" group-title="UNITEDSTATES",USA:IFC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/521.ts
+#EXTINF:-1 type="stream" tvg-id="MLBNetwork.us" tvg-name="USA:MLB HD" tvg-logo="http://i.imgur.com/BvBnDsO.png" group-title="DEPORTES",USA:MLB HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/239.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:MSG 1 HD" tvg-logo="http://i.imgur.com/zLrXTW4.png" group-title="DEPORTES",USA:MSG 1 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/271.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:MSG 1 PLUS HD" tvg-logo="http://i.imgur.com/zLrXTW4.png" group-title="DEPORTES",USA:MSG 1 PLUS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/408.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:MSG 2 HD" tvg-logo="http://i.imgur.com/zLrXTW4.png" group-title="DEPORTES",USA:MSG 2 HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/204.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:MSG 2 PLUS HD" tvg-logo="http://i.imgur.com/zLrXTW4.png" group-title="DEPORTES",USA:MSG 2 PLUS HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/274.ts
+#EXTINF:-1 type="stream" tvg-id="MSNBC.us" tvg-name="USA:MSNBC" tvg-logo="http://i.imgur.com/F5fjXn3.png" group-title="UNITEDSTATES",USA:MSNBC
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/450.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:MY9" tvg-logo="http://i.imgur.com/Ld6TGjp.png" group-title="UNITEDSTATES",USA:MY9
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/449.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:NAT GEO HD" tvg-logo="http://i.imgur.com/FkrWWyk.png?1" group-title="UNITEDSTATES",USA:NAT GEO HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/161.ts
+#EXTINF:-1 type="stream" tvg-id="NBATV.us" tvg-name="USA:NBA HD" tvg-logo="http://i.imgur.com/8B38cda.png" group-title="DEPORTES",USA:NBA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/182.ts
+#EXTINF:-1 type="stream" tvg-id="NBC.us" tvg-name="USA:NBC HD" tvg-logo="http://i.imgur.com/PBU8vjY.png" group-title="UNITEDSTATES",USA:NBC HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/200.ts
+#EXTINF:-1 type="stream" tvg-id="NBCSportsNetwork.us" tvg-name="USA:NBC SPORT NET HD" tvg-logo="http://i.imgur.com/HonTBZk.png" group-title="DEPORTES",USA:NBC SPORT NET HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/194.ts
+#EXTINF:-1 type="stream" tvg-id="NFLNetwork.us" tvg-name="USA:NFL NETWORK HD" tvg-logo="http://i.imgur.com/GUHxKQ2.png" group-title="DEPORTES",USA:NFL NETWORK HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/395.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:NFL NOW" tvg-logo="http://i.imgur.com/b6Hi4EQ.png" group-title="DEPORTES",USA:NFL NOW
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/509.ts
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon.us" tvg-name="USA:NICKELODEON" tvg-logo="http://i.imgur.com/QOFRCOh.png?1" group-title="UNITEDSTATES",USA:NICKELODEON
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/415.ts
+#EXTINF:-1 type="stream" tvg-id="Showtime2.us" tvg-name="USA:SHOWTIME 2" tvg-logo="http://i.imgur.com/hopFgT7.png?1" group-title="UNITEDSTATES",USA:SHOWTIME 2
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/338.ts
+#EXTINF:-1 type="stream" tvg-id="ShowtimeBeyond.us" tvg-name="USA:SHOWTIME BEYOND" tvg-logo="http://i.imgur.com/hopFgT7.png?1" group-title="UNITEDSTATES",USA:SHOWTIME BEYOND
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/336.ts
+#EXTINF:-1 type="stream" tvg-id="Showtime.us" tvg-name="USA:SHOWTIME EAST" tvg-logo="http://i.imgur.com/hopFgT7.png?1" group-title="UNITEDSTATES",USA:SHOWTIME EAST
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/337.ts
+#EXTINF:-1 type="stream" tvg-id="ShowtimeExtreme.us" tvg-name="USA:SHOWTIME EXTREME HD" tvg-logo="http://i.imgur.com/hopFgT7.png?1" group-title="UNITEDSTATES",USA:SHOWTIME EXTREME HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/339.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:SKY CINEMA ACTION" tvg-logo="http://i.imgur.com/AbAH6ZU.png" group-title="UNITEDSTATES",USA:SKY CINEMA ACTION
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/532.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:SKY CINEMA COMEDY" tvg-logo="http://i.imgur.com/AbAH6ZU.png" group-title="UNITEDSTATES",USA:SKY CINEMA COMEDY
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/573.ts
+#EXTINF:-1 type="stream" tvg-id="SkyCrimeThriller.uk" tvg-name="USA:SKY CINEMA CRIME" tvg-logo="http://i.imgur.com/AbAH6ZU.png" group-title="UNITEDSTATES",USA:SKY CINEMA CRIME
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/574.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:SKY CINEMA PREMIER" tvg-logo="http://i.imgur.com/AbAH6ZU.png" group-title="UNITEDSTATES",USA:SKY CINEMA PREMIER
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/577.ts
+#EXTINF:-1 type="stream" tvg-id="StarzCinema.us" tvg-name="USA:STARZ CINEMA HD" tvg-logo="http://i.imgur.com/epLigFX.png" group-title="UNITEDSTATES",USA:STARZ CINEMA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/378.ts
+#EXTINF:-1 type="stream" tvg-id="StarzEdge.us" tvg-name="USA:STARZ EDGE HD" tvg-logo="http://i.imgur.com/epLigFX.png?1" group-title="UNITEDSTATES",USA:STARZ EDGE HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/334.ts
+#EXTINF:-1 type="stream" tvg-id="Starz.us" tvg-name="USA:STARZ HD" tvg-logo="http://i.imgur.com/epLigFX.png?1" group-title="UNITEDSTATES",USA:STARZ HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/333.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:SYFY HD" tvg-logo="http://i.imgur.com/1clN2FW.png?1" group-title="UNITEDSTATES",USA:SYFY HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/344.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:TNT" tvg-logo="http://i.imgur.com/ua0j7lw.png" group-title="UNITEDSTATES",USA:TNT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/180.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:USA HD" tvg-logo="http://i.imgur.com/SFFrjpC.png?1" group-title="UNITEDSTATES",USA:USA HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/251.ts
+#EXTINF:-1 type="stream" tvg-id="WWE" tvg-name="USA:WWE NETWORK HD" tvg-logo="http://i.imgur.com/IgtcqIS.png" group-title="DEPORTES",USA:WWE NETWORK HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/282.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="USA:YES HD" tvg-logo="http://i.imgur.com/dOdtjwV.png" group-title="UNITEDSTATES",USA:YES HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/287.ts
+#EXTINF:-1 type="stream" tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="http://server1.nerdtv.club/xml2/img2/atg7Q21YNI-vh1-logo-nuevo.png" group-title="MUSICA",VH1
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/116.ts
+#EXTINF:-1 type="stream" tvg-id="Canal VH1 Classic" tvg-name="VH1 CLASSICS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/VH1_Classic_UK-old.svg/551px-VH1_Classic_UK-old.svg.png" group-title="MUSICA",VH1 CLASSICS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/115.ts
+#EXTINF:-1 type="stream" tvg-id="Viajar.es" tvg-name="VIAJAR HD" tvg-logo="" group-title="EUROPA",VIAJAR HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/570.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="http://i.imgur.com/X3PXUDe.png" group-title="MUSICA",VIDEO ROLA
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/345.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="VTV + HD" tvg-logo="http://i.imgur.com/NBsEiLq.png" group-title="SUDAMERICA",VTV + HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/176.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="VTV HD" tvg-logo="http://i.imgur.com/NBsEiLq.png" group-title="SUDAMERICA",VTV HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/177.ts
+#EXTINF:-1 type="stream" tvg-id="WarnerChannel.mx" tvg-name="WARNER" tvg-logo="http://i.imgur.com/AN48qoR.png" group-title="ENTRETENIMIENTO",WARNER
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/130.ts
+#EXTINF:-1 type="stream" tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://i.imgur.com/AN48qoR.png" group-title="CANALESHD",WARNER HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/11.ts
+#EXTINF:-1 type="stream" tvg-id="Warner.ar" tvg-name="WARNER LATAM HD" tvg-logo="http://i.imgur.com/AN48qoR.png" group-title="ENTRETENIMIENTO",WARNER LATAM HD
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/406.ts
+#EXTINF:-1 type="stream" tvg-id="WinSports.co" tvg-name="WINSPORT" tvg-logo="http://i.imgur.com/QqWpoxd.png" group-title="DEPORTES",WINSPORT
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/288.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xADVENTURE TIME" tvg-logo="http://vignette3.wikia.nocookie.net/adventuretimewithfinnandjake/images/e/e5/Adventuretime.png/revision/latest?cb=20140328222710" group-title="PPEyHD",x24xADVENTURE TIME
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/227.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xDR HOUSE" tvg-logo="http://art-s.nflximg.net/56b1d/157dfbcbe538d4e688701a96f43f63a2e6956b1d.png" group-title="PPEyHD",x24xDR HOUSE
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/225.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xESCANDALOSOS" tvg-logo="http://i.imgur.com/QDd9Ewa.png" group-title="PPEyHD",x24xESCANDALOSOS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/310.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xLOSSIMPSON" tvg-logo="http://vignette3.wikia.nocookie.net/lossimpson/images/3/36/Episodio_de_los_Simpson.png/revision/latest?cb=20110503034026&path-prefix=es" group-title="PPEyHD",x24xLOSSIMPSON
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/229.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xUN SHOW MAS" tvg-logo="http://i.imgur.com/qZe4dor.png" group-title="PPEyHD",x24xUN SHOW MAS
+http://main.nrdtv.gq:2095/live/anagonzales/televisa/311.ts
